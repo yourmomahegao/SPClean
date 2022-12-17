@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>rec/icon-transparent.png</file>
+    <file>rec/switch_off.png</file>
+    <file>rec/switch_on.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/Ermilov-bold.otf</file>
+  </qresource>
+</RCC>

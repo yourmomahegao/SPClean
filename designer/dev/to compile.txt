@@ -1,0 +1,2 @@
+pyuic5 ui.ui -o interface.py
+pyrcc5 rec.qrc -o rec_rc.py
